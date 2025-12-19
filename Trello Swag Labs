@@ -1,0 +1,23 @@
+Este repositorio/documento contiene la documentación de pruebas realizadas sobre la aplicación Sauce Demo. Incluye:
+
+Test Scenarios: Escenarios de prueba de alto nivel que describen funcionalidades y flujos críticos de la aplicación.
+
+Test Cases: Casos de prueba detallados con pasos específicos, datos de entrada, resultados esperados y criterios de aceptación.
+
+Bugs / Defects: Reportes de errores detectados durante la ejecución de los escenarios y casos de prueba, incluyendo:
+
+Precondiciones y entorno de prueba (OS, navegador, versión)
+
+Datos de prueba (usuarios, contraseñas, escenarios)
+
+Pasos para reproducir
+
+Resultado esperado vs. resultado actual
+
+Tipo de bug (UI/UX, funcional, data, etc.)
+
+Relación entre bugs cuando corresponde
+
+Evidencia visual (capturas de pantalla o enlaces a Trello)
+
+El objetivo de este repositorio es demostrar competencias en QA, incluyendo la planificación de pruebas, ejecución, documentación de casos y reportes de bugs, siguiendo buenas prácticas profesionales.
