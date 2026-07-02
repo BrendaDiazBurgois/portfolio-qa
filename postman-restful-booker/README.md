@@ -32,3 +32,14 @@ Additional requests: filtering bookings by name and by check-in/check-out dates.
 1. Import `Restful-Booker-API.postman_collection.json` into Postman
 2. Create an environment with variables `auth_token` and `booking_id` (empty values, they populate automatically)
 3. Run the collection in order using the Collection Runner
+
+## Screenshots
+
+### Individual test results
+![Test Results](screenshots/test-results.png)
+
+### Collection structure
+![Collection Structure](screenshots/collection-structure.png)
+
+### Collection Runner summary
+![Collection Runner](screenshots/collection-runner.png)
