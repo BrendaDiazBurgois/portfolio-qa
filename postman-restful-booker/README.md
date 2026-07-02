@@ -36,10 +36,10 @@ Additional requests: filtering bookings by name and by check-in/check-out dates.
 ## Screenshots
 
 ### Individual test results
-![Test Results](screenshots/test-results.png)
+![Test Results](postman-restful-booker/postman-restful-bookerscreenshotscollection-runner.png)
 
 ### Collection structure
-![Collection Structure](screenshots/collection-structure.png)
-
+![Collection Structure](postman-restful-booker/postman-restful-bookerscreenshotscollection-structure.png)
+(postman-restful-booker/postman-restful-bookerscreenshotscollection-structure2.png)
 ### Collection Runner summary
-![Collection Runner](screenshots/collection-runner.png)
+![Collection Runner](postman-restful-bookerscreenshotscollection-runner.png)
