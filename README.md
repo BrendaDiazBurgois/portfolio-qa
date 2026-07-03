@@ -1,5 +1,12 @@
-# portfolio-qa
-Este repositorio contiene mi portfolio profesional como QA, donde documento mis prácticas, ejercicios y proyectos relacionados con pruebas de software. Su propósito es demostrar mis conocimientos, metodología de trabajo y capacidad para aplicar técnicas de testing en entornos reales.
-## Acceso al tablero visual
-Para ver la organización visual de los bugs, test cases y test scenarios, visita mi tablero de Trello:  
-[QA Swag Labs Portfolio] (https://trello.com/b/YyoZidT3/qa-swag-labs-portfolio)
+# Portfolio QA — Brenda Díaz Burgois
+
+This repository showcases my work as a QA professional, documenting practices, exercises, and projects related to software testing. It demonstrates my technical knowledge, working methodology, and ability to apply testing techniques in real-world scenarios.
+
+## Projects
+
+### [Postman API Testing — Restful Booker](./postman-restful-booker)
+A Postman collection demonstrating API testing skills: full CRUD operations, token-based authentication, and automated tests validating status codes and response structure.
+
+### [Trello Board — Swag Labs QA](./trello-swag-labs)
+Visual organization of bugs, test cases, and test scenarios for the Swag Labs project.
+[View board](https://trello.com/b/YyoZidT3/qa-swag-labs-portfolio)
